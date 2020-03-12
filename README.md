@@ -2,7 +2,7 @@
 
 _You've downloaded a model, added an annotation or made a bugfix, and now you'd like to share it with the world._
 
-### Step 1: Fork & clone
+## Step 1: Fork & clone
 
 1. First, it's not called the CellML repository, it's the Physiome (Model) Repository (PMR), and you should be using the URL  https://models.physiomeproject.org.
 
@@ -27,7 +27,7 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 
 8. Clone the repo onto your system (you will need your account details from step 2)
 
-#### Step 2: Make a change
+## Step 2: Make a change
 
 1. Make some changes
 
@@ -35,7 +35,7 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 
 3. Push your changes back up (again using your PMR credentials).
 
-#### Step 3: Bother a curator
+## Step 3: Bother a curator
 
 1. Get Gary or Michael to email Andre (who's name is David). Or do it yourself.
 
