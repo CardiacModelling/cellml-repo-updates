@@ -4,11 +4,11 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 
 ### Step 1: Fork & clone
 
-1. First, it's not called the CellML repository, it's the Physiome (Model) Repository (PMR), and you should be using the URL [https://models.physiomeproject.org].
+1. First, it's not called the CellML repository, it's the Physiome (Model) Repository (PMR), and you should be using the URL  https://models.physiomeproject.org.
 
-2. Go to [https://models.physiomeproject.org], create an account, and log in
+2. Go to https://models.physiomeproject.org, create an account, and log in
 
-3. Find the model you want to update, e.g. [https://models.physiomeproject.org/e/96/grandi_pasqualini_bers_2010.cellml/view?]
+3. Find the model you want to update, e.g. https://models.physiomeproject.org/e/96/grandi_pasqualini_bers_2010.cellml/view
    You are now looking at an _exposure_, a snapshot of a git repository at some fixed point in time.
    ~A bit like~ Exactly like a git tag.
    Exposures are used as a "publication" of a model, frozen at some particular point.
