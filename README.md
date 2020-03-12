@@ -1,4 +1,4 @@
-# How to update a model in the CellML repository
+# How to update a model in the ~CellML~ Physiome Model Repository (PMR)
 
 _You've downloaded a model, added an annotation or made a bugfix, and now you'd like to share it with the world._
 
@@ -38,6 +38,7 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 ## Step 3: Bother a curator
 
 1. Get Gary or Michael to email Andre (who's name is David). Or do it yourself.
+   - Make sure to include the URL of your (forked) workspace 
 
 2. If all goes well, they can
    - pull in your changes to some curated workspace
