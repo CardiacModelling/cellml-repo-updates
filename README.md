@@ -17,6 +17,7 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
    You should find something saying "Source", and then e.g. _"Derived from workspace Grandi, Pasqualini and Bers, 2010 at changeset 8a2c891da5f2."_
    In other words, you've discovered a link to the git repository!
    (And learned that this exposure has commit hash 8a2c891da5f2).
+   Click the link.
 
 5. You're now on the "workspace" (repo) page.
    Near the top you should see a toolbar with the options "view", "history", "files", and "fork".
