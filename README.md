@@ -26,11 +26,11 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 
 7. Check "Owner" to see your own name, then "URI for git clone/pull/push" to get a URI to clone
 
-8. Clone the repo onto your system; when git asks you for a username and password, enter the ones you created in step 2.
+8. Clone the repo onto your system; when git asks you for a username and password, use the ones you created in step 2.
 
 ## Step 2: Make a change
 
-1. Make some changes
+1. Make some changes to the model, presumably improving it.
 
 2. Make frequent commits, each with an amazing, informative, time-proof, commit message.
 
