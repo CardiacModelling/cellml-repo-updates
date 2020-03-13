@@ -39,7 +39,7 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 ## Step 3: Bother a curator
 
 1. Get Gary or Michael to email Andre (who's name is David). Or do it yourself.
-   - Make sure to include the URL of your (forked) workspace 
+   - Make sure to include the PMR URL of your (forked) workspace 
 
 2. If all goes well, they can
    - pull in your changes to some curated workspace
