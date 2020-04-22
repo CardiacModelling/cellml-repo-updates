@@ -45,7 +45,7 @@ Note that the `cmeta:id` attribute does _not_ have a hash (#) before the id, whi
 
 This involves
 
-1. Creating or forking a ~github repository~ workspace (see [creating.md] or [updating.md])
+1. Creating or forking a ~github repository~ workspace (see [creating.md](./creating.md) or [updating.md](./updating.md))
 
-2. Creating ~a git tag~ an exposure (see [the official guide](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html) or [updating.md])
+2. Creating ~a git tag~ an exposure (see [the official guide](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html) or [updating.md](./updating.md))
 
