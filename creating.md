@@ -12,9 +12,8 @@ _You've created a new model, or made a CellML file for a model that doesn't have
 
 ## Step 2: Adding your model to the ephys model list
 
-1. Extra steps are needed to add your model to the "electrophysiology" list of models (https://models.physiomeproject.org/electrophysiology).
+See [listing.md].
 
-2. TODO: DESCRIBE THESE HERE
 
 
 
