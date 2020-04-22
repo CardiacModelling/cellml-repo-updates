@@ -4,3 +4,4 @@
 
 2. [Guide to adding new models](./creating.md) _You've created a new model, or made a CellML file for a model that doesn't have one yet, and now you'd like to share it with the world._
 
+3. [Getting a model into the "electrophysiology" section](./listing.md) _You'd like your model to show up [in this list](https://models.physiomeproject.org/electrophysiology).
