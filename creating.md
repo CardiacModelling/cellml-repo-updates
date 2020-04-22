@@ -12,7 +12,7 @@ _You've created a new model, or made a CellML file for a model that doesn't have
 
 ## Step 2: Adding your model to the ephys model list
 
-See [listing.md].
+See [listing.md](./listing.md).
 
 
 
