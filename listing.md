@@ -1,6 +1,6 @@
 # Adding a model to the list of electrophysiology models
 
-Follow these steps to get your model to show up [in this list](https://models.physiomeproject.org/electrophysiology).
+_You've got a model in the repository, and now you want it to show up in the [list of electrophysiology models](https://models.physiomeproject.org/electrophysiology)._
 
 ## Step 1: Adding meta data
 
