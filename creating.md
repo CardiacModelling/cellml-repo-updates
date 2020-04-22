@@ -8,7 +8,9 @@ _You've created a new model, or made a CellML file for a model that doesn't have
 
 2. Go to https://models.physiomeproject.org, create an account, and log in.
 
-3. Follow this [official guide to uploading new models](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html)
+3. Follow this [official guide to uploading new models](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html). Roughly, you will:
+  - Create a "workspace" (a git repository) where your model and meta data files live.
+  - Create an "exposure" (a git tag) of your workspace, and make it publically viewable. 
 
 ## Step 2: Adding your model to the ephys model list
 
