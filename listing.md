@@ -41,11 +41,10 @@ In CellML 1.0/1.1, this is done by
 
 Note that the `cmeta:id` attribute does _not_ have a hash (#) before the id, while the `rdf:about` attribute does.
 
-## Step 2: Uploading your model
+## Step 2: (Re-)Uploading your model
 
-This involves
+1. If you haven't done so already, you'll need to ceate or fork a ~github repository~ workspace (see [creating.md](./creating.md) or [updating.md](./updating.md))
 
-1. Creating or forking a ~github repository~ workspace (see [creating.md](./creating.md) or [updating.md](./updating.md))
+2. The new model with the RDF data will need to be uploaded.
 
-2. Creating ~a git tag~ an exposure (see [the official guide](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html) or [updating.md](./updating.md))
-
+3. Finally, a new ~a git tag~ an exposure will need to be made and set to public (see [the official guide](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html) or [updating.md](./updating.md))
