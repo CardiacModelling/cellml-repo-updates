@@ -43,7 +43,7 @@ Note that the `cmeta:id` attribute does _not_ have a hash (#) before the id, whi
 
 ## Step 2: (Re-)Uploading your model
 
-1. If you haven't done so already, you'll need to ceate or fork a ~github repository~ workspace (see [creating.md](./creating.md) or [updating.md](./updating.md))
+1. If you haven't done so already, you'll need to create or fork a ~github repository~ workspace (see [creating.md](./creating.md) or [updating.md](./updating.md))
 
 2. The new model with the RDF data will need to be uploaded.
 
