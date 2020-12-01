@@ -31,10 +31,11 @@ In CellML 1.0/1.1, this is done by
           <rdf:value>
             <rdf:Bag>
               <rdf:li>electrophysiology</rdf:li>
-          </rdf:Bag>
-        </rdf:value>
-      </dc:subject>
-    </bqs:reference>
+            </rdf:Bag>
+          </rdf:value>
+        </dc:subject>
+      </bqs:reference>
+    </rdf:Description>
   </rdf:RDF>
 </model>
 ```
