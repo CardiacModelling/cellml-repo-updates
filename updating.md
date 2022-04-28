@@ -38,7 +38,7 @@ _You've downloaded a model, added an annotation or made a bugfix, and now you'd 
 
 ## Step 3: Bother a curator
 
-1. Get Gary or Michael to email Andre (who's name is David). Or do it yourself.
+1. ~Get Gary or Michael to email Andre (who's name is David). Or do it yourself.~ Raise an issue on https://github.com/PMR2/models.physiomeproject.org
    - Make sure to include the PMR URL of your (forked) workspace 
 
 2. If all goes well, Andre (or another curator) can
