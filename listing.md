@@ -49,3 +49,7 @@ Note that the `cmeta:id` attribute does _not_ have a hash (#) before the id, whi
 2. The new model with the RDF data will need to be uploaded.
 
 3. Finally, a new ~a git tag~ an exposure will need to be made and set to public (see [the official guide](https://aucklandphysiomerepository.readthedocs.io/en/latest/quickstart.html) or [updating.md](./updating.md))
+
+When creating an exposure, you can select documentation for the exposure itself, and for each individual model file.
+The ephys list will always link directly to your model file, so it's best to associate the docs with the model file, not with the top-level exposure.
+[See here](https://github.com/PMR2/models.physiomeproject.org/issues/49#issuecomment-1128186052).
