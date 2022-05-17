@@ -14,15 +14,8 @@ _You've created a new model, or made a CellML file for a model that doesn't have
 
 In the last step you will be given the option to select documentation files for both your exposure and any model files.
 If you have only one model, don't select documentation for the exposure itself, just for the model file.
-[See here](https://github.com/PMR2/models.physiomeproject.org/issues/49#issuecomment-1128186052)
+[See here](https://github.com/PMR2/models.physiomeproject.org/issues/49#issuecomment-1128186052).
 
 ## Step 2: Adding your model to the ephys model list
 
 See [listing.md](./listing.md).
-
-
-
-
-
-
-
